@@ -49,17 +49,17 @@ AnyHub是一个开放包容的综合讨论群，如果您有Pixel设备，欢迎
 
 ## 清理
 
-我们会定时清理不活跃的群员。  
-如果您想持续留在AnyHub,请保持您的活跃度。  
-在清理不活跃的群员之前，我们会@全体成员。  
-如果有特殊原因不能保持活跃，请私聊管理。
+- 我们会定时清理不活跃的群员。  
+- 如果您想持续留在AnyHub,请保持您的活跃度。  
+- 在清理不活跃的群员之前，我们会@全体成员。  
+- 如果有特殊原因不能保持活跃，请私聊管理。
 
 ## 在其他地方找到我们：
 
-[Telegram讨论组](https://t.me/pixelhub2021)  
+- [Telegram讨论组](https://t.me/pixelhub2021)  
 规则同上，但是会更自由些许。  
 禁止鉴证。  
-[Telegram频道](https://t.me/pixelhubnews)  
+- [Telegram频道](https://t.me/pixelhubnews)  
 如果您认为讨论略有喧闹，您可以订阅我们的Telegram频道。  
 我们会分享Pixel和前沿科技的资讯和Android小知识。
 
