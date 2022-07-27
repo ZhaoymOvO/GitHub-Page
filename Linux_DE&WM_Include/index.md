@@ -44,8 +44,8 @@ sway可以看成是i3的Wayland实现，只支持Wayland。
 
 ---
 ## 其他桌面环境
-
 > 我只会写我建议的而不是市面上常见的，请见谅。
+
 ### LXDE/LXQt
 二者出自同一团队之手，LXDE可以看作是LXQt的前代，LXDE现已停止维护。  
 LXDE使用了GTK框架，LXQt使用了Qt框架，二者默认使用OpenBox窗口管理器，可以自定义修改。  
