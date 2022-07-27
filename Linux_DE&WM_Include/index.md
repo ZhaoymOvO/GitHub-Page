@@ -1,5 +1,6 @@
 # Linux桌面环境&窗口管理器介绍（介绍的都是我推荐的） by ZhaoymOvO
 > 这篇文章在[署名-非商业性使用-相同方式共享 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)协议下提供，转载请遵守[署名-非商业性使用-相同方式共享 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)协议
+
 ---
 ## 桌面环境御三家
 > 桌面环境提供了完整的GUI支持以及更多的自定义选项，或许是你使用的首选。
