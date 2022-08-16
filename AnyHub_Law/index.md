@@ -2,7 +2,7 @@
 
 ## 欢迎来到AnyHub！
 
-AnyHub是一个开放包容的综合讨论群，如果您有Pixel设备，欢迎您进入PixelHub（828577232）
+AnyHub是一个开放包容的综合讨论群，如果您有Pixel设备，欢迎您进入PixelHub（828577232（banded）、1170083516）
 
 ## 昵称
 
