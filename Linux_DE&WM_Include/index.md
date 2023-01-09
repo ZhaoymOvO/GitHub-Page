@@ -16,7 +16,7 @@ Plasma是御三家当中优化最好的，它是一个重量级桌面环境，�
 GNOME因RedHat而生（RedHat不希望被Qt的使用条款限制他的商业行为），是御三家中第二位出生的。  
 GNOME采用了GTK框架（不是GNOME tool kit是GIMP tool kit），并且是御三家中最早支持Wayland显示服务的，也是对Wayland显示服务支持最完善的（毕竟Wayland也是RedHat整的）。  
 GNOME是御三家当中生态统一做的最好的桌面环境，这也使御三家内GNOME可以最方便的配置代理。   
-想要自定义GNOME只能依靠插件，但是GNOME插件在更新GNOME版本后一般都不能继续使用。  
+不过这也导致了想要**自定义GNOME只能依靠插件**，但是GNOME插件在更新GNOME版本后一般都不能继续使用。  
 GNOME的操作逻辑在御三家乃至整个Linux桌面环境中是最适合触屏设备的。硕大的按钮、Android一般的状态栏，对触控设备很有好。  
 GNOME是一个重量级桌面环境，也是御三家当中优化最差的。
 
